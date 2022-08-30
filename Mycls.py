@@ -1,0 +1,1 @@
+class Mycls(Ara):
