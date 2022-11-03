@@ -2,8 +2,8 @@ import time
 import pyautogui as p
 import pywhatkit as wp
 
-wp.sendwhatmsg("+91", "Hi", 17, 17)
+wp.sendwhatmsg("+919048964884", "<3", 15, 54)
 
 for i in range(100):
-    p.typewrite("moyanthee")
-    p.press("enter")
+    p.typewrite("KARMA exist ... ! " + str(i))
+    p.press("<3")
