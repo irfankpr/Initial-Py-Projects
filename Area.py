@@ -6,6 +6,7 @@ class Area():
         r = float(input("enter radius of circle : "))
         print("area of circle is : ", 3.14159 * r * r)
         print("djfkladfi")
+        print("updations made in mybranch")
 
     def squ(self):
         l = float(input("enter side length : "))
